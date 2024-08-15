@@ -1,0 +1,46 @@
+{
+  "name": "node-js-sample",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^5.3.2",
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+		 "moment": "^2.30.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+		"crypto": "^1.0.1",
+    "msnodesqlv8": "^4.1.2",
+    "mssql": "^10.0.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql-connection-pool-manager": "^1.5.9",
+    "node-async-loop": "^1.2.2",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pm2": "^5.2.2",
+    "process": "^0.11.10",
+    "socket.io": "^4.5.3",
+    "web-vitals": "^2.1.4",
+    "winston": "^3.8.2"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
